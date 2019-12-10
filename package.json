@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-gostack-desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ruandersonvieira/bootcamp-gostack-desafio-01.git",
+  "author": "Ruanderson Vieira <ruanderson@accalia.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
